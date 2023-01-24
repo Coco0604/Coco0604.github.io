@@ -1,0 +1,135 @@
+body{
+    background-color: white;
+    margin: 10px 10px;
+    padding: 20px 10px;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    margin: 10px 10px;
+    padding: 10px 5px;
+    text-align: center;
+}
+
+button{
+    position: sticky;
+    top: 0;
+    margin: 10px 10px;
+    padding: 10px 5px;
+    background-color: lightgrey;  
+
+}
+
+section#person{
+    text-align: center;
+    background-color: sandybrown;
+}
+section#person h1{
+    font-size: 50px;
+    font-style: oblique;
+    padding: 10px;
+    margin: 10px;
+}
+section#person h2{
+    font-size: 30px;
+}
+
+section#profile img{
+    position: relative;
+    right: 80px;
+    width: 400px;
+}
+section#profile h1{
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+    font-size: 35px;
+    padding: 10px 10px;
+    margin: 0px 300px 0px 300px;
+    background-color: sandybrown;
+}
+section#profile p{
+    font-size: large;
+    align-items: flex-end;
+    position: relative;
+    bottom: 500px;
+    left: 300px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+section#studies h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 400px;
+    padding: 10px 10px;
+    margin: 0px 300px 0px 300px;
+    background-color: sandybrown;
+}
+section#studies p{
+    font-size: 20px;
+    align-items: flex-end;
+    position: relative;
+    left: 300px;
+    bottom: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section#studies h4{
+    font-size: 20px;
+    align-items: flex-end;
+    position: relative;
+    left: 300px;
+    bottom: 400px;
+}
+
+section#habilities h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 350px;
+    padding: 10px 10px;
+    margin: 0px 300px 0px 300px;
+    background-color: sandybrown;
+
+}
+section#habilities p{
+    font-size: larger;
+    align-items: flex-end;
+    position: relative;
+    left: 300px;
+    bottom: 350px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section#experience h3{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    bottom: 300px;
+    padding: 10px 10px;
+    margin: 0px 100px 0px 100px;
+    background-color: sandybrown;
+}
+section#experience h4{
+    font-size: 25px;
+    align-items: flex-end;
+    position: relative;
+    left: 300px;
+    bottom: 300px; 
+}
+section#experience p{
+    font-size: 20px;
+    align-items: flex-end;
+    position: relative;
+    left: 300px;
+    bottom: 300px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: grey;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
